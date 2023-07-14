@@ -1,0 +1,108 @@
+[05-Jul-2020 01:51:00 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:00 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:03 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:03 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:06 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:06 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:08 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:08 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:21 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:21 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:24 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:24 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:28 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:28 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[05-Jul-2020 01:51:52 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[05-Jul-2020 01:51:52 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[13-Jul-2020 17:59:34 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[13-Jul-2020 17:59:34 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[13-Jul-2020 17:59:39 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[13-Jul-2020 17:59:39 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[13-Jul-2020 17:59:42 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[13-Jul-2020 17:59:42 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206
+[13-Jul-2020 17:59:52 UTC] PHP Notice:  Undefined index: url in /home2/paytmbad/public_html/downloader/src/Provider/Youtube/VideoInfo.php on line 308
+[13-Jul-2020 17:59:52 UTC] PHP Fatal error:  Uncaught Exception in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php:203
+Stack trace:
+#0 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(113): YoutubeDownloader\Http\CurlClient->getHttpResponseFromCurl(Resource id #52, Array)
+#1 /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php(76): YoutubeDownloader\Http\CurlClient->sendRequest(Object(YoutubeDownloader\Http\Request))
+#2 /home2/paytmbad/public_html/downloader/src/Application/ControllerAbstract.php(105): YoutubeDownloader\Http\CurlClient->send(Object(YoutubeDownloader\Http\Request), Array)
+#3 /home2/paytmbad/public_html/downloader/src/Application/ResultController.php(174): YoutubeDownloader\Application\ControllerAbstract->getSize('', Object(YoutubeDownloader\Config), Object(YoutubeDownloader\Toolkit))
+#4 /home2/paytmbad/public_html/downloader/src/Application/App.php(83): YoutubeDownloader\Application\ResultController->execute()
+#5 /home2/paytmbad/public_html/downloader/getvideo.php(23): YoutubeDownloader\Application\ in /home2/paytmbad/public_html/downloader/src/Http/CurlClient.php on line 206

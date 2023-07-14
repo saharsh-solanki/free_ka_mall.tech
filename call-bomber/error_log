@@ -1,0 +1,6 @@
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  Packets out of order. Expected 0 received 1. Packet size=23 in /home2/paytmbad/public_html/dbcon.php on line 2
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home2/paytmbad/public_html/dbcon.php on line 2
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=26712 in /home2/paytmbad/public_html/dbcon.php on line 2
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home2/paytmbad/public_html/dbcon.php on line 2
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home2/paytmbad/public_html/rel-offer.php on line 7
+[07-Jul-2020 07:34:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home2/paytmbad/public_html/rel-offer.php on line 8

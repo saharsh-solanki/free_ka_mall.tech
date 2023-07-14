@@ -1,0 +1,30 @@
+[01-Jul-2020 10:17:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[01-Jul-2020 10:17:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[01-Jul-2020 10:17:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[01-Jul-2020 10:32:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[01-Jul-2020 10:32:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[01-Jul-2020 10:33:00 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 11:50:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 11:50:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[08-Jul-2020 11:50:34 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 13:36:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 13:36:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[08-Jul-2020 13:36:46 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 13:45:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 13:45:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[08-Jul-2020 13:45:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 14:41:38 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 14:41:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[08-Jul-2020 14:41:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 18:21:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[08-Jul-2020 18:21:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[08-Jul-2020 18:21:10 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[12-Jul-2020 09:20:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[12-Jul-2020 09:20:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[12-Jul-2020 09:20:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[12-Jul-2020 13:14:42 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[12-Jul-2020 13:14:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[12-Jul-2020 13:14:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[27-Jul-2020 03:44:20 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
+[27-Jul-2020 03:44:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/paytmbad/public_html/admin/login.php:9) in /home2/paytmbad/public_html/admin/login.php on line 282
+[27-Jul-2020 03:44:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/paytmbad/public_html/admin/login.php on line 280
